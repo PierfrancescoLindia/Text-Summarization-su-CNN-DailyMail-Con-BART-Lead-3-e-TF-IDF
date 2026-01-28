@@ -194,10 +194,5 @@ I risultati riportati in relazione mostrano un quadro coerente con la natura dei
 ## 9. Ambiente di esecuzione
 Gli esperimenti sono stati eseguiti in Google Colab con GPU **NVIDIA A100 (40GB)**, coerentemente con i requisiti computazionali del fine-tuning e della generazione con Transformer. :contentReference[oaicite:15]{index=15}
 
----
-
-## 10. Repository Structure
-Struttura consigliata per GitHub:
-
 
 
