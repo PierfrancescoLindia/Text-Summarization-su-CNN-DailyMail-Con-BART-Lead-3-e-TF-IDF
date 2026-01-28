@@ -1,4 +1,4 @@
-##Text Summarization su CNN/DailyMail:Con BART, Lead-3 e TF-IDF
+#Text Summarization su CNN/DailyMail:Con BART, Lead-3 e TF-IDF
 
 ## 1. Project Overview
 Questo progetto affronta il problema della **text summarization** su articoli giornalistici, usando il dataset **CNN/DailyMail (v3.0.0)** come benchmark. L’obiettivo è duplice:
